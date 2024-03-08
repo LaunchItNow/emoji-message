@@ -1,6 +1,9 @@
-The web app converts the messages into a story made of emojis. It's a fun way to express sentiments in a light-hearted manner.
+> [!NOTE]
+> The web app converts the messages into a story made of emojis. It's a fun way to express sentiments in a light-hearted manner.
+> Feel Free to add more emojis as needed.
 
-Feel Free to add more emojis as needed.
+> [!IMPORTANT]
+> Check this video to learn more about how to use
 
 ## Contributing
 
