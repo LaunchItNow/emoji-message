@@ -1,6 +1,6 @@
 > [!NOTE]
 > The web app converts the messages into a story made of emojis. It's a fun way to express sentiments in a light-hearted manner.
-> Feel Free to add more emojis as needed. [Try here](https://logiclunch.github.io/emoji-message/)
+> Feel Free to add more emojis as needed. [Try here](https://launchitnow.github.io/emoji-message/)
 
 > [!IMPORTANT]
 > Check this video to learn more about how to use
